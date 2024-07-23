@@ -26,7 +26,7 @@ with st.sidebar:
     format="MM.DD.YYYY",
     )
 
-    accept = st.button('주가 데이터 확인')
+    accept = st.button('확인')
 
 # caching
 # 인자가 바뀌지 않는 함수 실행 결과를 저장 후 크롬의 임시 저장 폴더에 저장 후 재사용
