@@ -2,7 +2,7 @@ streamlit
 pandas
 finance-datareader
 beautifulsoup4
-matplotlib 
+matplotlib
 plotly
 openpyxl
 html5lib
