@@ -1,6 +1,8 @@
 "# streamlit01"
 한 줄 더 추가 
 
+![cat](https://github.com/user-attachments/assets/2ce51f21-df5f-43ff-99ca-27ebc9ab1b69)
+
 # git-scm 을 설치 
 
 # local repository
